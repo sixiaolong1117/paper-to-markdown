@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文转 Markdown"
+  short_description: "结合论文 PDF 与 LaTeX 源码，生成完整中文 Markdown、公式表格与本地配图"
+  default_prompt: "使用 $paper-to-markdown，将给定论文 PDF 和 LaTeX 源码整理为完整中文 Markdown，复制并引用全部配图，检查公式编号、表格和链接。"
